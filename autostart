@@ -1,0 +1,6 @@
+tint2 &
+nitrogen --restore &
+compton -b &
+conky -c ~/.conky/.conkyrc -b &
+rofi -show run
+
